@@ -107,7 +107,9 @@ npm start  # Runs React frontend
 
 ⭐ Show Some Love!
 If you like this project, please 🌟 Star this repository and contribute!
-Made with ❤️ by Anjali Kumari Livya Falodia,Shail Antani,
+
+
+Made with ❤️ by Anjali Kumari,Livya Falodia,Shail Antani,
 
 
 
