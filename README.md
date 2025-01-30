@@ -1,4 +1,4 @@
-# 🍔 Food Genie – AI-Powered Smart Meal Planner  
+# 🍔 Food Genie –Diet-based Meal Subscription and Food Delivery 
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
